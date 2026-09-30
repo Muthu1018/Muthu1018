@@ -84,26 +84,14 @@ while gaining industry experience.
 
 ---
 
-### 👥 HR Analytics Dashboard – Employee Attrition Analysis
+### 🌦️ Weather API Dashboard
 
-- Analyzed HR data to understand employee attrition and workforce trends.
-- Built an HR analytics dashboard.
-- Analyzed HR KPIs and workforce data.
-- Provided a clear view of employee attrition patterns and workforce trends.
+- Retrieved weather information through a weather API.
+- Cleaned data for analysis.
+- Built an interactive dashboard tracking temperature, humidity, and weather conditions across cities.
 
+**Technologies:** `Python` `Weather API` `Power BI`
 **Technologies:** `Excel` `Power BI`
-
----
-
-### 🛒 Blinkit Grocery Sales Analysis
-
-**🚧 In Progress**
-
-- Analyzed grocery sales data to understand business performance.
-- Performed data cleaning and KPI analysis.
-- Generated insights into grocery sales performance and key business metrics.
-
-**Technologies:** `Excel` `SQL` `Power BI`
 
 ---
 
